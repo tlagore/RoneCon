@@ -1,0 +1,8 @@
+C:\Users\tyron\source\repos\RoneCon\RconLib\obj\Debug\netstandard2.0\RconLib.csprojAssemblyReference.cache
+C:\Users\tyron\source\repos\RoneCon\RconLib\obj\Debug\netstandard2.0\RconLib.AssemblyInfoInputs.cache
+C:\Users\tyron\source\repos\RoneCon\RconLib\obj\Debug\netstandard2.0\RconLib.AssemblyInfo.cs
+C:\Users\tyron\source\repos\RoneCon\RconLib\bin\Debug\netstandard2.0\RconLib.deps.json
+C:\Users\tyron\source\repos\RoneCon\RconLib\bin\Debug\netstandard2.0\RconLib.dll
+C:\Users\tyron\source\repos\RoneCon\RconLib\bin\Debug\netstandard2.0\RconLib.pdb
+C:\Users\tyron\source\repos\RoneCon\RconLib\obj\Debug\netstandard2.0\RconLib.dll
+C:\Users\tyron\source\repos\RoneCon\RconLib\obj\Debug\netstandard2.0\RconLib.pdb
